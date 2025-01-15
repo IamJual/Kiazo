@@ -49,3 +49,4 @@ c:\Users\joel.rosendahl\Documents\Joel\Ohjelmointi\Kiazo\obj\Debug\net8.0\refint
 c:\Users\joel.rosendahl\Documents\Joel\Ohjelmointi\Kiazo\obj\Debug\net8.0\Kiazo.pdb
 c:\Users\joel.rosendahl\Documents\Joel\Ohjelmointi\Kiazo\obj\Debug\net8.0\Kiazo.genruntimeconfig.cache
 c:\Users\joel.rosendahl\Documents\Joel\Ohjelmointi\Kiazo\obj\Debug\net8.0\ref\Kiazo.dll
+c:\Users\joel.rosendahl\Documents\Joel\Ohjelmointi\Kiazo\bin\Debug\net8.0\Content\Textures\Tilemaps\tilemap.xnb

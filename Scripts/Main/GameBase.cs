@@ -6,12 +6,15 @@ namespace Kiazo;
 
 public class GameBase : Game
 {
-    private GraphicsDeviceManager _graphics;
-    private SpriteBatch _spriteBatch;
+    private GraphicsDeviceManager graphics;
+    private SpriteBatch spriteBatch;
+
+    Texture2D texture;
+    Tilemap tilemap = new Tilemap();
 
     public GameBase()
     {
-        _graphics = new GraphicsDeviceManager(this);
+        graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
         IsMouseVisible = true;
     }
@@ -25,7 +28,9 @@ public class GameBase : Game
 
     protected override void LoadContent()
     {
-        _spriteBatch = new SpriteBatch(GraphicsDevice);
+        spriteBatch = new SpriteBatch(GraphicsDevice);
+
+        texture = Content.Load<Texture2D>("Textures/Tilemaps/tilemap");
 
         // TODO: use this.Content to load your game content here
     }
@@ -42,9 +47,12 @@ public class GameBase : Game
 
     protected override void Draw(GameTime gameTime)
     {
-        GraphicsDevice.Clear(Color.CornflowerBlue);
+        GraphicsDevice.Clear(Color.Black);
 
         // TODO: Add your drawing code here
+        spriteBatch.Begin();
+        
+        spriteBatch.End();
 
         base.Draw(gameTime);
     }

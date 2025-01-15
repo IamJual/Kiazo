@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj": {}
+    "C:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj": {
+    "C:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj",
+        "projectUniqueName": "C:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj",
         "projectName": "Kiazo",
-        "projectPath": "c:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj",
+        "projectPath": "C:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\Kiazo.csproj",
         "packagesPath": "C:\\Users\\joel.rosendahl\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\obj\\",
+        "outputPath": "C:\\Users\\joel.rosendahl\\Documents\\Joel\\Ohjelmointi\\Kiazo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joel.rosendahl\\AppData\\Roaming\\NuGet\\NuGet.Config",
