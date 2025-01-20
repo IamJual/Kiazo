@@ -23,7 +23,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:textures/debug/banana.png
+/build:textures/debug/banana.png;
 
 #begin textures/tilemaps/tilemap.png
 /importer:TextureImporter

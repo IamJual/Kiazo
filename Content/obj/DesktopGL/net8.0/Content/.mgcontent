@@ -8,7 +8,7 @@
     <File>j:/.MyStuff/Programming/C#/Kiazo/Content/textures/tilemaps/tilemap.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
+    <File />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

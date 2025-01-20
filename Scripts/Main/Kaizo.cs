@@ -49,7 +49,7 @@ public class Kaizo : Game
         }
         if (Keyboard.GetState().IsKeyDown(Keys.F11))
         {
-            SetResolution(512, 480);
+            SetResolution(1000, 1000);
         }
 
         base.Update(gameTime);
@@ -58,7 +58,7 @@ public class Kaizo : Game
 
     protected override void Draw(GameTime gameTime)
     {
-        GraphicsDevice.Clear(new Color(170, 0, 255));
+        GraphicsDevice.Clear(Color.Black);
         _canvas.BeginDrawing();
 
         DrawTexture();
