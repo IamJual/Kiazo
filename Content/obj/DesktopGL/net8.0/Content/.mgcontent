@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/joel.rosendahl/Documents/Joel/Ohjelmointi/Kiazo/Content/Textures/Tilemaps/tilemap.png</File>
+    <File>j:/.MyStuff/Programming/C#/Kiazo/Content/textures/debug/banana.png</File>
+    <File>j:/.MyStuff/Programming/C#/Kiazo/Content/textures/tilemaps/tilemap.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

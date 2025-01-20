@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiazo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085b6327c853a6a5299a3d35b9a0d7e2b2278710")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3774f0630dea0a821b5c3247c0626f4c8de7f58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiazo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiazo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

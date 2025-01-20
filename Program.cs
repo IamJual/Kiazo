@@ -1,2 +1,2 @@
-﻿using var gameBase = new Kiazo.GameBase();
+﻿using var gameBase = new Kiazo.Kaizo();
 gameBase.Run();

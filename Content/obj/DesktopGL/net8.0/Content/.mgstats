@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"j:/.MyStuff/Programming/C#/Kiazo/Content/textures/debug/banana.png","j:/.MyStuff/Programming/C#/Kiazo/Content/bin/DesktopGL/Content/textures/debug/banana.xnb","TextureProcessor","Texture2DContent",692320,1705685,0.3443571
+"j:/.MyStuff/Programming/C#/Kiazo/Content/textures/tilemaps/tilemap.png","j:/.MyStuff/Programming/C#/Kiazo/Content/bin/DesktopGL/Content/textures/tilemaps/tilemap.xnb","TextureProcessor","Texture2DContent",1116,1048661,0.364723
