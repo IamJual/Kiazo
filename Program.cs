@@ -1,2 +1,2 @@
-﻿using var kaizo = new Kiazo.Kaizo();
-kaizo.Run();
+﻿using var Kiazo = new Core.GameManager();
+Kiazo.Run();

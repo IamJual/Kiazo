@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj": {}
+    "j:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj": {}
   },
   "projects": {
-    "J:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj": {
+    "j:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj",
+        "projectUniqueName": "j:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj",
         "projectName": "Kiazo",
-        "projectPath": "J:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj",
+        "projectPath": "j:\\.MyStuff\\Programming\\C#\\Kiazo\\Kiazo.csproj",
         "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
-        "outputPath": "J:\\.MyStuff\\Programming\\C#\\Kiazo\\obj\\",
+        "outputPath": "j:\\.MyStuff\\Programming\\C#\\Kiazo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -70,12 +71,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
